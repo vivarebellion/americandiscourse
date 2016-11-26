@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               American Discourse
 tagline:             'Is America Great Yet?'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Is America Great Yet?'
 url:                 http://americandiscourse.org
 baseurl:             ''
 paginate:            5
@@ -19,4 +19,4 @@ author:
 
 # Custom vars
 version:             1.0.0
-gems: [jekyll-paginate]
+gems:                [jekyll-paginate]
