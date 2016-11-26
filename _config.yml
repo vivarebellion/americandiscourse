@@ -4,18 +4,19 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               American Discourse
+tagline:             'Is America Great Yet?'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://americandiscourse.dev
+url:                 http://americandiscourse.org
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              American Discourse
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             therebellion@protonmail.com
 
 # Custom vars
 version:             1.0.0
+gems: [jekyll-paginate]
