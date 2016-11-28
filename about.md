@@ -10,4 +10,4 @@ We do not collude with political parties, governments, or the media. American Di
 
 Our goal is simple. Provide a framework for productive conversation so the American people can work together and regain control of our country.
 
-If you believe in what we are doing and would like to contribute, please email therebellion@protonmail.com
+If you believe in what we are doing and would like to contribute, please email <therebellion@protonmail.com>
